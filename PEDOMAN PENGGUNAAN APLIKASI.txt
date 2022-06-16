@@ -1,0 +1,20 @@
+Untuk cara penggunaan aplikasi : 
+
+1. Download Python 3 lalu install https://www.python.org/downloads/release/python-390/
+
+2. Jangan lupa saat menginstall untuk mencentang variabel pathnya. 
+
+3. lalu setelah itu buka CMD, misalkan kamu menaruh folder aplikasi ini di Downloads. 
+maka buka folder downloads di cmd, dengan perintah : 
+
+"cd Downloads\nama-folder-aplikasi-ini" 
+
+tanpa tanda petik!
+
+4. lalu ketikan perintah berikut : 
+
+"pip3 install -r requirements.txt" 
+
+5. setelah berhasil, silahkan jalankan aplikasi dengan perintah : 
+
+"python gui.py" 
